@@ -1,6 +1,5 @@
+Chat Bot Overview
 
-Chat Bot
-Overview
 This project is a chat bot leveraging OpenAI's GPT-3.5 Turbo model, implemented using React for the front end, Express for the backend, and MongoDB for data storage. The application provides users with an interactive interface to engage in natural language conversations with the GPT-3.5 Turbo model.
 
 Features
