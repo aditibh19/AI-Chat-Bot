@@ -30,8 +30,9 @@ Before running the application, ensure you have the following installed:
 
 1.  Clone the repository:
 
-    ```bash
-   https://github.com/aditibh19/AI-Chat-Bot.git
+   
+     ```bash
+    git clone https://github.com/aditibh19/AI-Chat-Bot.git
     ```
 
 2.  Navigate to the project directory:
